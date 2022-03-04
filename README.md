@@ -6,12 +6,12 @@ The original transmission protocols used for email do not have built-in authenti
 <details>
 <summary>Table of contents</summary>
 <ul>
-  <li></a>espoofer]<a href="espoofer/#README.md"></li>
-<li>[gonder](gonder/#README.md)</li>
-<li>[gmailMailSender](mailsend/#README.md)</li>
-<li>[gmail_massive_email_sender](massive/#README.md)</li>
-<li>[Mass-email-sender](massmail/#README.md)</li>
-<li>[RabbitMQ-MassTransit-Email](rabbit/#README.md)</li>
-<li>[Smart-Mass-Mailer](smm/#README.md)</li>
-<li>[Bulk-Email-Sender](smtp/#README.md)</li>
+  <li><a href="espoofer/#README.md">espoofer</a></li>
+  <li><a href="gonder/#README.md">gonder</a></li>
+  <li><a href="mailsend/#README.md">gmailMailSender</a></li>
+  <li><a href="massive/#README.md">gmail_massive_email_sender</a></li>
+  <li><a href="massmail/#README.md">Mass-email-sender</a></li>
+  <li><a href="rabbit/#README.md">RabbitMQ-MassTransit-Email</a></li>
+  <li><a href="smm/#README.md">Smart-Mass-Mailer</a></li>
+  <li><a href="smtp/#README.md">Bulk-Email-Sender</a></li>
 </ul>
