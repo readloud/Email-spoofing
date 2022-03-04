@@ -1,12 +1,12 @@
 import pandas as pd
 import smtplib
 
-SenderAddress = "<Email Address of sender>"
-password = "password of sender"
+SenderAddress = "alfazza967@gmail.com"
+password = "Ssahamaneh"
 
 e = pd.read_excel("Email.xlsx")
 emails = e['Emails'].values
-server = smtplib.SMTP("smtp.gmail.com", 587)
+server = smtplib.SMTP("smtp.gmail.com", 587, 465)
 server.starttls()
 server.login(SenderAddress, password)
 msg = "Hello this is a email form python"
